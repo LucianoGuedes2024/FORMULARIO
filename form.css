@@ -4,3 +4,10 @@ body {
  
 
     
+body {
+    background-color: dimgray;
+}
+
+form{
+    background-color: rgb(121, 196, 231);
+}
