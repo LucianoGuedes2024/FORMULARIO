@@ -9,5 +9,36 @@ body {
 }
 
 form{
-    background-color: rgb(121, 196, 231);
+    text-align: center;
+    font-size: 19px;
+    border-radius: 20px;
+    max-width: 1200px;
+    max-height: 1200px;
+}
+
+
+h1 {
+    text-align: center;
+     color: rgb(34, 144, 184);
+}
+
+h2 {
+    text-align: center;
+    color:  rgb(10, 73, 124);
+}
+
+input {
+    background-color: rgb(151, 182, 105);
+    border-radius: 30px;
+}
+
+select {
+    background-color: rgb(145, 177, 97);
+     border-radius: 30px;
+
+}
+
+
+.botao-enviar input {
+    background-color: rgb(180, 180, 67);
 }
