@@ -6,6 +6,7 @@ body {
     
 body {
     background-color: dimgray;
+    border-radius: 30px;
 }
 
 form{
@@ -14,12 +15,14 @@ form{
     border-radius: 20px;
     max-width: 1200px;
     max-height: 1200px;
+    text-shadow: 4px 4px 4px black;
 }
 
 
 h1 {
     text-align: center;
      color: rgb(34, 144, 184);
+     text-shadow: 4px 4px 4px black;
 }
 
 h2 {
@@ -28,17 +31,17 @@ h2 {
 }
 
 input {
-    background-color: rgb(151, 182, 105);
+    background-color:#1bb0ce; 
     border-radius: 30px;
 }
 
 select {
-    background-color: rgb(145, 177, 97);
+    background-color: #1bb0ce;
      border-radius: 30px;
 
 }
 
 
 .botao-enviar input {
-    background-color: rgb(180, 180, 67);
+    background-color: #1bb0ce;
 }
